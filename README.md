@@ -15,7 +15,7 @@ This will execute the module imports and display the results in your terminal.
 ES modules require a web server to run. Start a local server using one of these methods:
 
 
-**Node.js http-server )**
+**Node.js http-server**
 ```bash
 npx http-server
 ```
